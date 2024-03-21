@@ -1,4 +1,4 @@
-package M2S01;
+package M2S01EX01;
 
 public class Principal {
 
